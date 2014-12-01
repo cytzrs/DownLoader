@@ -1,0 +1,8 @@
+{ "packageUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene3/",
+"remoteManifestUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene3/project_dev.manifest",
+"version" : "1.2.0",
+"engineVersion" : "3.x", 
+"assets" : {
+},
+"searchPaths" : [ ] 
+}
