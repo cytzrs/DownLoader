@@ -1,5 +1,5 @@
-{ "packageUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene3/",
-"remoteManifestUrl" : "http://tools.itharbors.com/assets_manager/AMTestScene3/project_dev.manifest",
+{ "packageUrl" : "https://github.com/cytzrs/DownLoader/blob/master/res/",
+"remoteManifestUrl" : "https://github.com/cytzrs/DownLoader/blob/master/project_dev.manifest",
 "version" : "1.2.0",
 "engineVersion" : "3.x", 
 "assets" : {
